@@ -8,4 +8,7 @@ Symbol is developed with Unity 5.5 and uses the packages [gvr-unity-sdk](https:/
 
 ![screen shot 2017-01-19 at 11 50 31](https://cloud.githubusercontent.com/assets/22668207/22182997/4f0150c4-e0b3-11e6-9ec1-1583fac8ac6d.png)
 
+![screen shot 2017-01-19 at 11 51 02](https://cloud.githubusercontent.com/assets/22668207/22183001/759353fe-e0b3-11e6-839f-44e783959b56.png)
+
+
 
